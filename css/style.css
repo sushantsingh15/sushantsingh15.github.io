@@ -571,6 +571,33 @@ app marcup
   pointer-events: none;
 }
 
+.icon-publons {
+  background: url('../img/wos.svg');
+  background-repeat: no-repeat;
+  background-size: cover; /* stretch the background to cover the whole element */
+  display: flex;
+  height: 15px;
+  width: 15px;
+}
+
+.icon-scop {
+  background: url('../img/scop.svg');
+  background-repeat: no-repeat;
+  background-size: cover; /* stretch the background to cover the whole element */
+  display: flex;
+  height: 12px;
+  width: 12px;
+}
+
+.icon-scip {
+  background: url('../img/scip.svg');
+  background-repeat: no-repeat;
+  background-size: cover; /* stretch the background to cover the whole element */
+  display: flex;
+  height: 15px;
+  width: 15px;
+}
+
 /* ----- app ----- */
 .art-app {
   padding: 15px;
